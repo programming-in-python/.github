@@ -13,7 +13,7 @@ If you're interested in IoT-specific applications written in Python (and Java), 
 All repositories and artifacts are considered EXPERIMENTAL and under active development; e.g., they are subject to change significantly for the foreseeable future. This includes, but is not limited to, the following:
 - IPP: Intro to Programming in Python - Landing Page (this one): [Intro to Programming in Python](https://github.com/programming-in-python)
 - PEC: IPP Exercise Components: [ipp-exercise-components](https://github.com/programming-in-python/ipp-exercise-components)
-- EBT: PDT Exercise Board Tasks: [ipp-exercise-tasks](https://github.com/programming-digital-twins/pdt-exercise-tasks)
+- EBT: PDT Exercise Board Tasks: [ipp-exercise-tasks](https://github.com/programming-in-python/ipp-exercise-tasks)
 - PKB: IPP Kanban Board: [Intro to Programming in Python Kanban Board](https://github.com/orgs/programming-in-python/projects/1)
 
 Please refer to the individual repositories README and LICENSE* markdown files, and review the content on each repository's landing page for details on references, usage, and more.
