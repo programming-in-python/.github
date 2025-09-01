@@ -11,10 +11,10 @@ If you're interested in IoT-specific applications written in Python (and Java), 
 ## IMPORTANT NOTE
 
 All repositories and artifacts are considered EXPERIMENTAL and under active development; e.g., they are subject to change significantly for the foreseeable future. This includes, but is not limited to, the following:
-- IPP: Intro to Programming in Python - Landing Page (this one): [Intro to Programming in Python](https://github.com/programming-in-python)
+- Intro to Programming in Python - Landing Page (this one): [Intro to Programming in Python](https://github.com/programming-in-python)
 - IPC: IPP Exercise Components: [ipp-exercise-components](https://github.com/programming-in-python/ipp-exercise-components)
 - IPD: IPP Exercise Documents: [ipp-exercise-docs](https://github.com/programming-in-python/ipp-exercise-docs)
-- IPT: PDT Exercise Tasks: [ipp-exercise-tasks](https://github.com/programming-in-python/ipp-exercise-tasks)
+- IPP or IPT: IPP Exercise Tasks: [ipp-exercise-tasks](https://github.com/programming-in-python/ipp-exercise-tasks)
 - IPK: IPP Kanban Board: [Intro to Programming in Python Kanban Board](https://github.com/orgs/programming-in-python/projects/1)
 
 Please refer to the individual repositories README and LICENSE* markdown files, and review the content on each repository's landing page for details on references, usage, and more.
