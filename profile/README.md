@@ -33,6 +33,16 @@ The Programming in Python project (and its associated repositories) has the foll
 
 (3) Provide a baseline Python-based application platform for future courses, such as those I teach in Northeastern University's College of Engineering (e.g., Connected Devices and Building Digital Twins).
 
+## Naming Conventions
+
+This course uses a hybrid naming convention for pedagogical consistency:
+
+- Functions / Methods: camelCase (e.g., 'calculateGPA', 'saveStudentData')
+- Variables: snake_case (e.g., 'student_id', 'current_time')
+- Classes / Modules: PascalCase (e.g., 'StudentManager', 'DataProcessor')
+
+This deviates from standard Python [PEP 0008](https://peps.python.org/pep-0008/) conventions (snake_case for functions/variables, lowercase for modules) but provides consistency across course materials.
+
 ## Sample Videos
 
 - TBA
