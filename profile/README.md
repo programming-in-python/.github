@@ -37,9 +37,9 @@ The Programming in Python project (and its associated repositories) has the foll
 
 This course uses a hybrid naming convention for pedagogical consistency:
 
-- Functions / Methods: camelCase (e.g., 'calculateGPA', 'saveStudentData')
-- Variables: snake_case (e.g., 'student_id', 'current_time')
-- Classes / Modules: PascalCase (e.g., 'StudentManager', 'DataProcessor')
+- Functions / Methods: camelCase (e.g., `calculateGPA`, `saveStudentData`)
+- Variables: snake_case (e.g., `student_id`, `current_time`)
+- Classes / Modules: PascalCase (e.g., `StudentManager`, `DataProcessor`)
 
 This deviates from standard Python [PEP 0008](https://peps.python.org/pep-0008/) conventions (snake_case for functions/variables, lowercase for modules) but provides consistency across course materials.
 
