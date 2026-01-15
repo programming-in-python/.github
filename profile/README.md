@@ -47,7 +47,9 @@ This deviates from standard Python [PEP 0008](https://peps.python.org/pep-0008/)
 This section provides a summary roadmap for navigating the course - the content, lab modules, exercises, etc.
 
 ## 📋 Quick Start
+
 **Main Course Board:** [Kanban Board](https://github.com/orgs/programming-in-python/projects/1)
+
 **Dev Environment Setup:** [Setup Instructions](https://github.com/programming-in-python/ipp-exercise-tasks/issues/29)
 
 ---
