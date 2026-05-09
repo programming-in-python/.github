@@ -16,7 +16,7 @@ All repositories and artifacts are considered EXPERIMENTAL and under active deve
 - IPP or IPT: IPP Exercise Tasks: [ipp-exercise-tasks](https://github.com/programming-in-python/ipp-exercise-tasks)
 - IPK: IPP Kanban Board: [Intro to Programming in Python Kanban Board](https://github.com/orgs/programming-in-python/projects/1)
 
-Please refer to the individual repositories README and LICENSE* markdown files, and review the content on each repository's landing page for details on references, usage, and more.
+Please refer to the individual repository *README* and *LICENSE* markdown files, and review the content on each repository's landing page for details on references, usage, and more.
 
 # Exercises Kanban Board
 
