@@ -34,7 +34,9 @@ The Programming in Python project (and its associated repositories) has the foll
 
 ## Naming Conventions
 
-This course uses a hybrid naming convention for pedagogical consistency:
+NOTE: In the future, I plan to migrate code samples and docstrings to align with [PEP 0008](https://peps.python.org/pep-0008/) and [PEP 0257](https://peps.python.org/pep-0257/), with the exception that most comments will occupy multiple lines simply for clarity. Type hinting will be used by default per [PEP 0484](https://peps.python.org/pep-0484/) and parameters / return values within docstrings will follow the [Google style for docstring properties](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
+
+Currently, this course uses a hybrid naming convention for pedagogical consistency with my other work from [Programming the IoT](https://github.com/programming-the-iot/).
 
 - Functions / Methods: camelCase (e.g., `calculateGPA`, `saveStudentData`)
 - Variables: snake_case (e.g., `student_id`, `current_time`)
